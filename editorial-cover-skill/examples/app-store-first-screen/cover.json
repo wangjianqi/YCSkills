@@ -1,0 +1,17 @@
+{
+  "slug": "app-store-first-screen",
+  "background": "background-wechat.png",
+  "palette": {
+    "background": "#F3F0E9",
+    "foreground": "#191919",
+    "accent": "#A56D51"
+  },
+  "focus": [0.5, 0.5],
+  "platforms": {
+    "wechat": {
+      "headline": "",
+      "subline": "",
+      "text_position": "center"
+    }
+  }
+}
