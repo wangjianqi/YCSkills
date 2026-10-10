@@ -12,6 +12,7 @@ dist/
 build/
 .eggs/
 
+.workbuddy-ai/
 # Virtual environments
 venv/
 .venv/
