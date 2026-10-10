@@ -1,0 +1,33 @@
+{
+  "slug": "local-ai-experiment",
+  "background": null,
+  "palette": {
+    "background": "#F3F0E9",
+    "foreground": "#191919",
+    "accent": "#8C8B86"
+  },
+  "focus": [
+    0.5,
+    0.5
+  ],
+  "platforms": {
+    "wechat": {
+      "headline": "本地 AI 实验",
+      "subline": "",
+      "text_position": "center",
+      "background": null
+    },
+    "xhs": {
+      "headline": "16GB Mac\n跑图像模型",
+      "subline": "一次本地实验",
+      "text_position": "top",
+      "background": null
+    },
+    "douyin": {
+      "headline": "16GB Mac\n本地跑 AI",
+      "subline": "实测记录",
+      "text_position": "top",
+      "background": null
+    }
+  }
+}

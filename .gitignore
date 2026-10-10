@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+pip-wheel-metadata/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Editor temporary files
+*~
+*.bak
+
+# Skill runtime outputs (generated images, brief.md, etc.)
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.webp
