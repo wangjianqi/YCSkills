@@ -1,0 +1,15 @@
+{
+  "slug": "tingtu-43a-v2",
+  "background": "background-wechat.png",
+  "palette": {"background": "#101821", "foreground": "#F8F8F5", "accent": "#F26A55"},
+  "focus": [0.5, 0.5],
+  "platforms": {
+    "wechat": {
+      "headline": "从零开发 App\n却被判相似",
+      "subline": "",
+      "title_size": 48,
+      "text_position": "bottom",
+      "scrim": false
+    }
+  }
+}
