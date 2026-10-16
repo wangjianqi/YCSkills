@@ -8,16 +8,6 @@
 |---|---|---|
 | [editorial-cover](./editorial-cover-skill/) | 从中文文章生成克制、有编辑设计感的封面，支持公众号 / 小红书 / 抖音多平台 | 需要给文章、笔记、视频配封面时 |
 
-## 示例效果
-
-根据文章《App Store 多了两块新画布，先别急着重做十张截图》生成的微信公众号封面。视觉概念是“搜索结果中的第一眼”：一张空白卡片从纸页间露出，没有仿造真实 App Store 界面。
-
-![editorial-cover 微信公众号封面示例](./editorial-cover-skill/examples/app-store-first-screen/cover-wechat.png)
-
-[查看居中方形裁切预览](./editorial-cover-skill/examples/app-store-first-screen/preview-wechat-square.png) · [查看原始背景、提示词与配置](./editorial-cover-skill/examples/app-store-first-screen/)
-
-此示例的无字背景由 AI 图像工具生成，中文排版和平台裁切由 Skill 脚本处理；示例仅展示文章封面效果，不是 App Store 官方素材或真实界面。
-
 ## 安装
 
 ### 方式一：克隆整个仓库
